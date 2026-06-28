@@ -1,0 +1,20 @@
+# AI Service Dependencies for SecureCast
+# Face verification, embedding generation, and liveness detection
+
+# Web framework
+fastapi
+uvicorn[standard]
+
+# Image processing
+opencv-python-headless
+Pillow
+numpy
+
+# Face detection and verification
+deepface
+mediapipe
+
+# Utilities
+python-dotenv
+python-multipart
+scipy

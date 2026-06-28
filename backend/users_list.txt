@@ -1,0 +1,5 @@
+1. ADMIN | admin@securecast.com | undefined | Approved=true | Verified=true
+2. ADMIN | vivekthakare1127@gmail.com | undefined | Approved=true | Verified=true
+3. CANDIDATE | newkalamkar333@gmail.com | undefined | Approved=true | Verified=true
+4. VOTER | paritosh.b1206@gmail.com | undefined | Approved=true | Verified=false
+5. VOTER | abhijeetkusmude14@gmail.com | undefined | Approved=false | Verified=true
